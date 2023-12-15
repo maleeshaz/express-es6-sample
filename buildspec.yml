@@ -17,7 +17,7 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-      - echo Running tests
+      - echo Running testsa
       - npm run test
 
 artifacts:
